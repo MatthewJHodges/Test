@@ -1,0 +1,9 @@
+C:\Users\matth\source\repos\Studies\Studies\bin\Debug\Studies.exe.config
+C:\Users\matth\source\repos\Studies\Studies\bin\Debug\Studies.exe
+C:\Users\matth\source\repos\Studies\Studies\bin\Debug\Studies.pdb
+C:\Users\matth\source\repos\Studies\Studies\obj\Debug\Studies.Form1.resources
+C:\Users\matth\source\repos\Studies\Studies\obj\Debug\Studies.Properties.Resources.resources
+C:\Users\matth\source\repos\Studies\Studies\obj\Debug\Studies.csproj.GenerateResource.cache
+C:\Users\matth\source\repos\Studies\Studies\obj\Debug\Studies.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\Studies\Studies\obj\Debug\Studies.exe
+C:\Users\matth\source\repos\Studies\Studies\obj\Debug\Studies.pdb
